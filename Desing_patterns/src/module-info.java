@@ -1,0 +1,2 @@
+module Desing_patterns {
+}
