@@ -13,6 +13,7 @@ public class Main {
 		
 		customerService.messageSenderBase = new SmsSender();
 		customerService.verify();
+		
 
 	}
 
